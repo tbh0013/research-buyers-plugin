@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/researchbuyers42",
+  "version": "1.0.0",
+  "description": "ResearchBuyers42",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7 || ^2.0"
+  },
+  "extra": {
+    "code": "ResearchBuyers42"
+  }
+}
